@@ -21,6 +21,8 @@ elif oper=="%":
     result=num1%num2
     print(num1,"%",num2,"=",result)
 else :
-    print("Add"+str(num1+num2),"Sub"+str(num1-num2),"Mult"+str(num1*num2),"Div"+str(num1/num2),"Mod"+str(num1%num2))
-    
-   
+    print("Add :"+str(num1+num2))
+    print("Sub :"+str(num1-num2))
+    print("Mult :"+str(num1*num2))
+    print("Div :"+str(num1/num2))
+    print("Mod :"+str(num1%num2))
