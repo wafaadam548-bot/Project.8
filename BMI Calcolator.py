@@ -1,11 +1,13 @@
 print("Hello in our BMI web")
 print("Lets calcoulate your BMI")
 Tall=float(input("Please Enter Your Hight in Cm :"))
-print("The hight is "+ Tall)
+print("The hight is "+ str (Tall))
+
 wight=float(input("Plese Enter your wight(kg) :"))
-print("The wight is "+wight)
+print("The wight is "+ str (wight))
+Tall=Tall/100
 result=wight/Tall**2
-print("your BMI is :"+ result)
+print("your BMI is :"+ str (result))
 if result<=18.5:
     print("UnderWight")
 elif 18.5<= result<=24.5:
