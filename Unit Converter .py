@@ -77,7 +77,7 @@ elif num.lower()=="height":
     elif num2=="m to ft":
         result=num1/0.3048       
         print("="+str(result)+"ft")
-elif num.lower()=="Time":
+elif num.lower()=="time":
     print("Please select the unit")
     print("Please select from the least and write it exact thing ")
     print("sec to min ")
@@ -162,7 +162,7 @@ elif num.lower()=="Time":
     elif num2=="year to month":
         result=num1*12   
         print("="+str(result)+"month")
-elif num.lower()=="Temperature":
+elif num.lower()=="temperature":
     print("Please select the unit")
     print("c to f")
     print("f to c")
