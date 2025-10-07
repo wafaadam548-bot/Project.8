@@ -1,3 +1,5 @@
+#append let us add option in the last
+#insert let us add option in the bigging
 print("Hellow too our Unit Converter web")
 print("Choose what you want to convert:")
 print("1-Weight")
