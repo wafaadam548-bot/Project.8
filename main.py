@@ -14,3 +14,4 @@ elif choise=="3":
     import Unit
 else:
     print("Sorry, make sure you follow the steps and write with the same letters and spelling.")            
+print("Please Press Enter to Exit the page")
