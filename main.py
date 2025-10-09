@@ -14,7 +14,7 @@ elif choise=="2":
 elif choise=="3":
     import Unit
 elif choise=="4":
-    import Unit    
+    import Currency    
 else:
     print("Sorry, make sure you follow the steps and write with the same letters and spelling.")            
 print("Please Press Enter to Exit the page")
