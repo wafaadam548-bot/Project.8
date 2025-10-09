@@ -6,7 +6,7 @@ print("1. Baisec Calculator")
 print("2. BMI Calculator")
 print("3. Unit Converter")
 print("4. Currency conversion")
-choise=input("Enter Your choise(1,2,3)")
+choise=input("Enter Your choise(1,2,3,4) : ")
 if choise=="1":
     import Calcolater
 elif choise=="2":
