@@ -33,4 +33,3 @@ It includes the following features:
 
 ## Aouther
 Wafa Adam
-https://o365wrdsb-my.sharepoint.com/:u:/r/personal/adamw7854_wrdsb_ca/Documents/Desktop/Day4InClassPractice4_Wafa_Adam/Project.8/dist/main.exe?csf=1&web=1&e=Vkv7A8
