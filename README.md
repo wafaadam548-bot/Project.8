@@ -19,7 +19,7 @@ It includes the following features:
 ---
 
 ## How to Use
-1. Open the **SmartCalc.exe** file.  
+1. Open the **main.exe** file.  
 2. Choose the type of calculator you want to use.  
 3. Enter your numbers and get the result.  
 
